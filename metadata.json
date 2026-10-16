@@ -1,0 +1,6 @@
+{
+  "name": "MOODBREW — Mood-Based Specialty Coffee",
+  "description": "There's a cup for the feeling. MOODBREW connects emotions with coffee experiences through interactive mood pairing, 18 signature craft drinks, and The MOOD LETTER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

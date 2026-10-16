@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Subtle paper texture effect for Mood Letter and editorial surfaces */
+.paper-texture {
+  background-color: #FFF9F1;
+  background-image: radial-gradient(rgba(45, 32, 28, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
